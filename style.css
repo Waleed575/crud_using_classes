@@ -1,0 +1,44 @@
+body
+{
+
+    background-color: bisque;
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+
+}
+h1
+{
+    text-align: center;
+    margin-top: 200px;
+}
+label
+{
+    text-align: center;
+    display:inline-block;
+    width:70px;
+
+    margin-bottom:1px;
+}
+
+input
+{
+    text-align: left;
+    text-decoration: none;
+}
+form
+{
+    margin: 0 auto;
+    width:350px;
+}
+table
+{
+
+    margin:auto;
+
+}
+.button {
+    display:block;
+    margin:0 auto;
+    text-decoration: none;
+}
